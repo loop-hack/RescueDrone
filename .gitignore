@@ -1,0 +1,10 @@
+.Drone_env/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/
+outputs/
+logs/
+*.pt
+*.onnx
